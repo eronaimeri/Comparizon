@@ -1,0 +1,713 @@
+/*   HOMEPAGE   */
+.homepage {
+    width: 100%;
+    height: fit-content;
+    margin: 0;
+    padding: 0;
+}
+
+/* ******************************************************************** */
+/*   IMAGES   */
+#tick {width: 35px;}
+
+.card-img {width: 17px;}
+
+.orange-icons {width: 50px;}
+
+#search-icon {
+    height: 35px;
+    margin: auto;
+}
+
+.arrow {width: 70px;}
+
+#map {width: 100%;}
+
+/* ******************************************************************** */
+/*   Home Header   */
+.homepage header {
+    width: 100%;
+    min-height: 75vh;
+    padding: 3rem 5rem;
+    background-image: url("../../images/images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+
+.homepage header .col-xl-7 {color: white;}
+
+.homepage header .col-xl-7 h1 {
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+
+.homepage header .col-xl-7 p {margin-bottom: 0;}
+
+.homepage header .col-xl-7 span {
+    margin: 0 15px;
+    padding: 2px 15px;
+    background-color: #db735c;
+    font-size: 13px;
+}
+
+.homepage header .card {
+    padding: 3rem;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    border: none;
+    font-weight: 400;
+}
+
+.homepage header .card h4 {
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+
+.homepage header .card p {font-weight: 600;}
+
+.homepage header .card span {
+    padding-left: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.homepage header .card .header-search-btn {
+    padding: 10px 20px;
+    background: linear-gradient(222deg, rgba(219, 115, 92, 1), rgba(243, 197, 123, 1));
+    border: none;
+    border-radius: 1.5rem;
+    color: white;
+    font-weight: 700;
+}
+
+/* ******************************************************************** */
+/*   PARTNERS   */
+.partners {
+    width: 100%;
+    padding: 3rem;
+    border-bottom: 1px solid rgb(199, 199, 199) ;
+}
+
+.homepage .partners .col {margin-top: 0;}
+
+/* ******************************************************************** */
+/*   SPECIAL OFFERS   */
+.special-offer {
+    width: 100%;
+    padding: 3rem;
+}
+
+.homepage .special-offer .col h1 {
+    margin-bottom: 2rem;
+    font-weight: 900;
+    color: #5c5146;
+}
+
+.homepage .special-offer a {
+    margin-right: 10px;
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+/* ******************************************************************** */
+/*   WHY SIGN UP   */
+.why-sign-up {
+    width: 100%;
+    padding: 3rem;
+}
+
+.homepage .why-sign-up h1 {
+    padding-bottom: 3rem;
+    font-weight: 800;
+    color: #5c5146;
+}
+
+.homepage .why-sign-up p {padding-left: 30px;}
+
+/* ******************************************************************** */
+/*   TESTIMONIALS SECTION   */
+.testimonials {
+    width: 100%;
+    padding: 3rem 4rem;
+    background: linear-gradient(222deg, rgba(219, 115, 92, 1), rgba(243, 197, 123, 1));
+}
+
+.testimonials h2 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+.verflow-x-scroll-hidden {overflow-x: hidden;}
+
+.testimonial-item {
+    width: 40%;
+    margin: 0 2rem;
+    padding: 2rem 4rem;
+    background-color: white;
+    border-radius: .5rem;
+}
+
+/* ******************************************************************** */
+/*   MAP   */
+.map-coverage {
+    margin: .25rem auto;
+    color: #5c5146;
+}
+
+.map-coverage h1 {
+    color: #5c5146;
+    font-weight: 900;
+    margin-bottom: 2rem;
+}
+
+.map-coverage-form {
+    width: 90%;
+    height: fit-content;
+    margin: auto;
+    padding: 5px 0;
+    display: inline-flex;
+}
+
+.map-coverage-form input, .map-coverage-form button {
+    height: 60px;
+    border: none;
+    box-shadow: 0 0 48px 0 rgba(198, 188, 178, 0.4);
+    outline: none;
+}
+
+.map-coverage-form input {
+    width: 80%;
+    padding: 5px;
+    border-radius: 0.5rem 0 0 0.5rem;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.map-coverage-form button {
+    width: 20%;
+    background: linear-gradient(222deg, rgba(219, 115, 92, 1), rgba(243, 197, 123, 1));
+    border-radius: 0 0.5rem 0.5rem 0;
+    cursor: pointer;
+}
+
+.country-zones ul {
+    padding-inline-start: 0;
+    list-style: none;
+}
+
+.country-zones ul li {display: inline-flex;}
+
+.country-zones ul li::before {
+    height: fit-content;
+    position: relative;
+    margin-top: -48px;
+    padding-right: 10px;
+    content: "•";
+    font-size: 5rem;
+}
+
+.list-item-1::before {color: #796652;}
+
+.list-item-2::before {color: #96846f;}
+
+.list-item-3::before {color: #d5ac6e;}
+
+.list-item-4::before {color: #d4b897;}
+
+.list-item-5::before {color: #f0a76c;}
+
+.list-item-6::before {color: #f3c57b;}
+
+.list-item-7::before {color: #db735c;}
+
+/* ******************************************************************** */
+/*   LATEST NEWS SECTION   */
+.latest-news {
+    width: 100%;
+    padding: 3rem;
+}
+
+.homepage .latest-news .col h1 {
+    margin-bottom: 2rem;
+    font-weight: 900;
+    color: #5c5146;
+}
+
+.latest-news .latest-news-posts {
+    padding: 1rem;
+    padding-left: 0;
+}
+
+.latest-news .latest-news-img {
+    width: 150px;
+    height: 100px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.latest-news h4 {font-weight: 900;}
+
+.latest-news a {
+    color: #5c5146;
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+.latest-news a:hover {color: rgb(10, 10, 104);}
+
+/* ******************************************************************** */
+/*   HOW IT WORKS SECTION   */
+.how-it-works {
+    width: 100%;
+    padding: 3rem;
+}
+
+.homepage .how-it-works .col h1 {
+    margin-bottom: 2rem;
+    font-weight: 900;
+    color: #5c5146;
+}
+
+.homepage .how-it-works .col p {
+    width: 55%;
+    margin: 1rem 0 3rem 0;
+}
+
+.homepage .how-it-works .col-xl-6 p {padding-left: 30px;}
+
+.homepage .how-it-works .white-shadow {
+    width: 100%;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5rem;
+    padding: 2rem 1rem;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 0 48px 0 rgba(198, 188, 178, 0.4);
+}
+
+.homepage .how-it-works .white-shadow p {
+    height: fit-content;
+    margin: auto;
+}
+
+.homepage .how-it-works .col a {
+    margin-right: 10px;
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.homepage .how-it-works .col a:hover {color: rgb(24, 24, 110);}
+
+/* ******************************************************************** */
+/*   SIGN UP SECTION   */
+.sign-up {
+    width: 100%;
+    padding: 6rem 3rem;
+    background-color: #2d2d2c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homepage .sign-up h1 {
+    color: white;
+    font-weight: 800;
+}
+
+.homepage .sign-up form {
+    width: 100%;
+    padding: 30px 0;
+    display: inline-flex;
+}
+
+.homepage .sign-up label {
+    width: 100%;
+    color: white;
+    font-weight: 800;    
+}
+
+.homepage .sign-up input {
+    padding: 5px 20px 5px 5px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid grey;
+    font-size: 28px;
+    flex: 1 1 auto !important;
+    outline: none;    
+}
+
+.homepage .sign-up button {
+    height: fit-content;
+    margin: auto;
+    margin-bottom: 0%;
+    margin-left: 1rem;
+    padding: 10px 20px;
+    color: black;
+    font-weight: 800;
+    background-color: white;
+    border: none;
+    border-radius: 1.5rem;
+}
+
+/* ******************************************************************** */
+/*   NEED HELP SECTION   */
+.need-help {
+    width: 100%;
+    padding: 3rem 0;
+}
+
+.homepage .need-help h1 {
+    margin-bottom: 5rem;
+    padding-left: 15px;
+    font-weight: 700;
+    color: #5c5146;
+}
+
+.homepage .need-help p {margin-bottom: 1.5rem;}
+
+/* ******************************************************************** */
+/*   OTHER ELEMENTS   */
+hr {
+    width: 80%;
+    color: rgb(97, 97, 97);
+}
+
+/* ******************************************************************** */
+/*   MEDIA QUERIES   */
+@media screen and (min-width: 320px) and (max-width: 575px) {
+    .homepage h1 {font-size: 20px;}
+
+    .homepage p {font-size: 12px;}
+    
+    #tick {width: 15px;}
+
+    .card-img {width: 10px;}
+
+    .orange-icons {width: 30px;}
+
+    #search-icon {height: 20px;}
+
+    .arrow {width: 40px;}
+
+    /*   HEADER   */
+    .homepage header {padding: 1rem;}
+
+    .homepage header .col-xl-7 h1, .homepage header .card h4 {margin-bottom: 20px;}
+
+    .homepage header .col-xl-7 span {
+        padding: 2px 10px;
+        font-size: 10px;
+    }
+
+    .homepage header .card {padding: 1rem;} 
+   
+    .homepage header .card h4 {font-size: 16px;} 
+
+    .homepage header .card p {font-size: 12px;}
+
+    .homepage header .card span {font-size: 10px;}
+
+    .homepage header .card .header-search-btn {font-size: 11px;}
+
+    /*   PARTNERS   */
+    .partners .slick-slider{
+        width: 90%;
+        margin: auto;
+    }
+
+    /*   SPECIAL OFFERS   */
+    .special-offer {padding: 1rem;}
+
+    .homepage .special-offer a {font-size: 13px;}
+
+    /*   WHY SIGN UP   */
+    .why-sign-up {padding: 1rem;}
+
+    .why-sign-up .col-md-6 {margin: 10px 0;}
+
+    .why-sign-up h1 {padding-bottom: 1rem !important;}
+
+    /*   TESTIMONIALS SECTION   */
+    .testimonials {padding: 1rem;}
+
+    .testimonial-item {
+        margin: auto;
+        margin-top: 20px;
+        padding: .5rem .5rem;
+    }
+
+    .testimonial-item img {width: 40px;}
+
+    /*   MAP   */
+    .map-coverage-form {margin-bottom: 30px;}
+
+    .map-coverage-form input {
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+
+    .country-zones ul {margin-top: 30px;}
+
+    .country-zones ul li::before {
+        margin-top: -15px;
+        font-size: 2rem;
+    }
+
+    /*   LATEST NEWS SECTION   */
+    .latest-news {padding: 1rem;}
+
+    .latest-news .latest-news-img {
+        width: 100px;
+        height: 70px;
+        margin: auto;
+        margin-right: 5px;
+    }
+
+    .latest-news span {font-size: 11px;}
+
+    .latest-news h4 {font-size: 14px;}
+
+    /*   HOW IT WORKS   */
+    .how-it-works {padding: 1rem;}
+
+    .how-it-works a {font-size: 13px;}
+
+    /*   SIGN UP SECTION   */
+    .sign-up {
+        padding: 1rem;
+        text-align: center;
+    }
+
+    .homepage .sign-up form {
+        padding-bottom: 0;
+        display: block;
+    }
+
+    .homepage .sign-up input {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+    /*   NEED HELP   */
+    .need-help {padding: 1rem 0;}
+
+    .need-help h1 {margin-bottom: 20px !important;}
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .homepage h1 {
+        margin-bottom: 0 !important;
+        padding-bottom: 2rem !important;
+        font-size: 25px;
+    }
+
+    .homepage p {font-size: 13px;}
+    
+    #tick {width: 20px;}
+
+    .card-img {width: 12px;}
+
+    .orange-icons {width: 35px;}
+
+    #search-icon {height: 22px;}
+
+    .arrow {width: 55px;}
+
+    /*   HEADER   */
+    .homepage header {padding: 2rem;}
+
+    .homepage header .col-xl-7 h1, .homepage header .card h4 {margin-bottom: 30px;}
+
+    .homepage header .col-xl-7 span {
+        padding: 2px 12px;
+        font-size: 11px;
+    }
+
+    .homepage header .card {padding: 2rem;} 
+   
+    .homepage header .card h4 {font-size: 20px;} 
+
+    .homepage header .card p {font-size: 13px;}
+
+    .homepage header .card span {font-size: 11px;}
+
+    .homepage header .card .header-search-btn {font-size: 12px;}
+
+    /*   PARTNERS   */
+    .partners .slick-slider{
+        width: 90%;
+        margin: auto;
+    }
+
+    /*   SPECIAL OFFERS   */
+    .special-offer {padding: 2rem;}
+
+    .homepage .special-offer a {font-size: 14px;}
+
+    /*   WHY SIGN UP   */
+    .why-sign-up {padding: 2rem;}
+
+    .why-sign-up .col-md-6 {margin: 10px 0;}
+
+    /*   TESTIMONIALS SECTION   */
+    .testimonials {padding: 2rem;}
+
+    .testimonial-item {
+        margin: auto;
+        margin-top: 20px;
+        padding: 2rem 1rem;
+    }
+
+    /*   MAP   */
+    .map-coverage-form {margin-bottom: 40px;}
+
+    .map-coverage-form input {font-size: 20px;}
+
+    .country-zones ul {margin-top: 40px;}
+
+    .country-zones ul li::before {
+        margin-top: -35px;
+        font-size: 4rem;
+    }
+
+    /*   LATEST NEWS SECTION   */
+    .latest-news {padding: 2rem;}
+
+    .latest-news .latest-news-img {
+        width: 120px;
+        height: 80px;
+    }
+
+    .latest-news h4 {font-size: 16px;}
+
+    /*   HOW IT WORKS   */
+    .how-it-works {padding: 2rem;}
+
+    /*   SIGN UP SECTION   */
+    .homepage .sign-up input {font-size: 20px;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .homepage h1 {font-size: 30px;}
+
+    .homepage p {font-size: 14px;}
+    
+    #tick {width: 25px;}
+
+    .card-img {width: 14px;}
+
+    .orange-icons {width: 40px;}
+
+    #search-icon {height: 25px;}
+
+    .arrow {width: 60px;}
+
+    /*   HEADER   */
+    .homepage header {padding: 2rem;}
+
+    .homepage header .col-xl-7 h1, .homepage header .card h4 {margin-bottom: 30px;}
+
+    .homepage header .col-xl-7 span {
+        padding: 2px 12px;
+        font-size: 12px;
+    }
+
+    .homepage header .card {padding: 2rem;} 
+   
+    .homepage header .card p {font-size: 14px;}
+
+    .homepage header .card span {font-size: 12px;}
+
+    .homepage header .card .header-search-btn {font-size: 13px;}
+
+    /*   PARTNERS   */
+    .partners .slick-slider{
+        width: 95%;
+        margin: auto;
+    }
+
+    /*   SPECIAL OFFERS   */
+    .special-offer {padding: 2rem;}
+
+    .homepage .special-offer a {font-size: 16px;}
+
+    /*   WHY SIGN UP   */
+    .why-sign-up {padding: 2rem;}
+
+    /*   TESTIMONIALS SECTION   */
+    .testimonials {padding: 2rem;}
+
+    .testimonial-item {padding: 2rem 2rem;}
+
+    /*   MAP   */
+    .map-coverage-form input {font-size: 22px;}
+
+    .country-zones ul li::before {
+        margin-top: -35px;
+        font-size: 4rem;
+    }
+
+    /*   LATEST NEWS SECTION   */
+    .latest-news {padding: 2rem;}
+
+    .latest-news .latest-news-img {
+        width: 130px;
+        height: 90px;
+    }
+
+    .latest-news h4 {font-size: 18px;}
+
+    /*   HOW IT WORKS   */
+    .how-it-works {padding: 2rem;}
+
+    /*   SIGN UP SECTION   */
+    .homepage .sign-up input {font-size: 22px;}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .homepage h1 {font-size: 35px;}
+    
+    #tick {width: 30px;}
+
+    .card-img {width: 15px;}
+
+    .orange-icons {width: 45px;}
+
+    #search-icon {height: 30px;}
+
+    .arrow {width: 65px;}
+
+    /*   HEADER   */
+    .homepage header .card {padding: 2.5rem;} 
+
+    /*   PARTNERS   */
+    .partners .slick-slider{
+        width: 90%;
+        margin: auto;
+    }
+
+    /*   TESTIMONIALS SECTION   */
+    .testimonials {padding: 3rem;}
+
+    .testimonial-item {padding: 2rem 3rem;}
+
+    /*   MAP   */
+    .map-coverage-form input {font-size: 25px;}
+
+    /*   LATEST NEWS SECTION   */
+    .latest-news .latest-news-img {
+        width: 140px;
+        height: 95px;
+    }
+
+    .latest-news h4 {font-size: 22px;}
+
+    /*   SIGN UP SECTION   */
+    .homepage .sign-up input {font-size: 24px;}
+}

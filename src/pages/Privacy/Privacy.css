@@ -1,0 +1,100 @@
+/*   PRIVACY   */
+.privacy {width: 100%;}
+
+.privacy-content {
+    max-width: 96rem;
+    margin: auto;
+    padding-bottom: 4rem;
+    color: #5c5146;
+}
+
+.orange-logo {
+    width: 250px;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.privacy-content span {
+    font-size: 13px;
+    font-weight: 900;
+}
+
+.privacy-content h4 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bolder;
+}
+
+.privacy-content h6 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bolder;
+}
+
+.orange-card {
+    margin: auto;
+    padding: 2rem 1rem;
+    border: 1px solid #db735c;
+    align-items: center;
+    display: block;
+}
+
+.orange-card .grey-text {color: rgb(95, 95, 95);}
+
+.orange-card a {
+    padding: 15px 495px;
+    background: linear-gradient(222deg, rgba(219, 115, 92, 1), rgba(243, 197, 123, 1));
+    border: none;
+    border-radius: 1.5rem;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 320px) and (max-width: 575px) {
+
+    .orange-logo {width: 150px;}
+
+    .privacy p {font-size: 12px;}
+
+    .orange-card a {
+        padding: 8px 90px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+    .orange-logo {width: 190px;}
+
+    .privacy p {font-size: 13px;}
+
+    .orange-card a {
+        padding: 10px 200px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    .orange-logo {width: 200px;}
+
+    .privacy p {font-size: 14px;}
+
+    .orange-card a {
+        padding: 15px 290px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+    .orange-logo {width: 230px;}
+
+    .orange-card a {padding: 15px 400px;}
+}

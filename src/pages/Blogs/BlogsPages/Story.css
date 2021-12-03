@@ -1,0 +1,21 @@
+.story {
+    width: 100%;
+    height: fit-content;
+    padding: 4rem;
+}
+
+.story header {
+    width: 100%;
+    height: 50vh;
+    margin-bottom: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.story-1 header {background-image: url("https://www.stuff.tv/sites/stuff.tv/files/styles/main-full-width/public/brands/Samsung/Galaxy-Note-10/Galaxy_Note_10_handsonreview/samsung-galaxy-note-10-vs-apple-iphone-xs.jpg?itok=yuPADDQW&timestamp=1565847229g");}
+.story-2 header {background-image: url("https://static.diffen.com/uploadz/6/64/android--1.jpg");}
+.story-3 header {background-image: url("https://cdn.zeplin.io/5bae1e1ad3b5ca03c02b37c1/assets/DFA87D43-1C95-4BDB-9134-CACC9573BE7B.png");}
+.story-4 header {background-image: url("https://cdn.zeplin.io/5bae1e1ad3b5ca03c02b37c1/assets/257C2A1D-D01C-4D76-9033-BFCCFA4D748C.png");}
+.story-5 header {background-image: url("https://media.vanityfair.com/photos/54caaf68494254fc0996b3aa/16:9/w_1280%2Cc_limit/image.jpg");}
+.story-6 header {background-image: url("https://static.ffx.io/images/$zoom_1%2C$multiply_0.40180813661476644%2C$ratio_1.777778%2C$width_1991%2C$x_0%2C$y_82/t_crop_custom/t_sharpen%2Cq_auto%2Cf_auto/cebd935b59c94242866108a6e97dc9937cded4ab");}
