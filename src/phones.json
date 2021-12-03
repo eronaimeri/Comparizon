@@ -1,0 +1,3388 @@
+[
+    {
+        "id": "0eb491e2-fa48-37df-b2c8-96b8385bba39",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/Samsung Note 9/samsung-note9-blue-LRG-netflix.png"
+        },
+        "description": "Samsung Galaxy Note9, Compatible with S Pen,6.4” Quad HD+ (2960 x 1440) Super AMOLED,12 months Netflix subscription on us, offer ends 13/01/19",
+        "brand": "Samsung",
+        "model": "Galaxy Note9",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "Octa-Core 2.7GHz + 1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8.1
+            }
+        },
+        "carrier": "optus",
+        "special" : true,
+        "url": "http://www.optus.com.au/shop/mobile/phones/samsung/galaxy-note9"
+    },
+    {
+        "id": "28773016-e263-3cb3-ba9a-2f6d6d105da7",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/Google-Pixel-3/Pixel3_White-146x243-LRG.png"
+        },
+        "description": "Google Pixel 3, 5.5” FHD+ flexible OLED (2160 x 1080),12.2MP camera with Group Selfies,With the Google Assistant built-in",
+        "brand": "Google",
+        "model": "Pixel 3",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "<p>Octa Core</p>\n<p>4xKyro Gold (2.5GHz)</p>\n4xKyroi Silver (1.6GHz)",
+                "frequency": 2500,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 9
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/google/pixel-3?plan=69"
+    },
+    {
+        "id": "213ff041-742e-3aac-8480-7a970592a2f4",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/Google-Pixel-3-XL/Pixel3XL_White-colour-146x243-LRG.png"
+        },
+        "description": "Google Pixel 3 XL, 6.3” QHD+ flexible OLED (2960 x 1440),12.2MP camera with Group Selfies,With the Google Assistant built-in",
+        "brand": "Google",
+        "model": "Pixel 3 XL",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "<p>Octa Core</p>\n<p>4xKyro Gold (2.5GHz)</p>\n4xKyroi Silver (1.6GHz)",
+                "frequency": 2500,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 9
+            }
+        },
+        "carrier": "optus",
+        "special" : true,
+        "url": "//www.optus.com.au/shop/mobile/phones/google/pixel-3-xl?plan=69"
+    },
+    {
+        "id": "b9e0e2a0-38db-37e9-a9de-708332e1e01f",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Consumer/Mobile/Media/Images/Handsets/iPhone/iPhone 8 Plus/apple-iphone-8-plus-gold-LRG.png"
+        },
+        "description": "iPhone 8 Plus, 5.5-inch Retina HD display with True Tone,All-glass and aluminium design, water and dust resistant,12MP dual cameras with OIS, Portrait mode, Portrait Lighting, and 4K video up to 60 fps",
+        "brand": "iPhone",
+        "model": "8 Plus",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 0,
+                    "available": false
+                },
+                "back": {
+                    "mb": 0,
+                    "available": false
+                }
+            },
+            "screen": {
+                "size": "",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "",
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": null
+            }
+        },
+        "carrier": "optus",
+        "special" : true,
+        "url": "http://offer.optus.com.au/shop/mobile/phones/iphone/iphone-8-plus"
+    },
+    {
+        "id": "41c01035-58f5-3b03-8a4b-30a7298ebca8",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Consumer/Mobile/Media/Images/Handsets/iPhone/iPhone X/apple-iphone-x.png"
+        },
+        "description": "iPhone X, 5.8-inch Super Retina HD display with HDR and True Tone,All-glass and stainless steel design; water and dust resistance,12-megapixel dual cameras with OIS, Portrait mode, Portrait Lighting, and 4K video up to 60 fps",
+        "brand": "iPhone",
+        "model": "X",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 0,
+                    "available": false
+                },
+                "back": {
+                    "mb": 0,
+                    "available": false
+                }
+            },
+            "screen": {
+                "size": "",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "",
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": null
+            }
+        },
+        "carrier": "optus",
+        "special" : true,
+        "url": "http://www.optus.com.au/shop/mobile/phones/iphone/iphone-x"
+    },
+    {
+        "id": "dfb6b566-afaa-37e2-b6dd-c85b2d6c2314",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared%20Media/Devices/MobilePhones/Samsung%20S8/samsung-galaxy-s8-black-LRG.png"
+        },
+        "description": "Samsung Galaxy S8, 5.8\" Infinity Display with QuadHD+ resolution,12MP Dual Pixel Camera with 8MP front camera,Water and dust resistant (IP68)",
+        "brand": "Samsung",
+        "model": "Galaxy S8",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "2960x1440",
+                    "height": "2960x1440"
+                }
+            },
+            "processor": {
+                "model": "Exynos 9, 10nm Octa-Core 2.3GHz + 1.7GHz",
+                "frequency": 2300,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 7
+            }
+        },
+        "carrier": "optus",
+        "special" : true,
+        "url": "//www.optus.com.au/shop/mobile/phones/samsung/galaxy-s8"
+    },
+    {
+        "id": "a64e2df7-0731-3d00-bd4a-3e3c80f93b75",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/samsung-galaxy-a8/samsung-a8-black-146x243-LRG.png"
+        },
+        "description": "Samsung Galaxy A8, Dual 16MP + 8MP Selfie camera with Live Focus,5.6” Infinity Display with Full HD+ resolution,Fast charging and long last battery",
+        "brand": "Samsung",
+        "model": "Galaxy A8",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "2960x1440",
+                    "height": "2960x1440"
+                }
+            },
+            "processor": {
+                "model": "Exynos 9, 10nm Octa-Core 2.3GHz + 1.7GHz",
+                "frequency": 2300,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 7
+            }
+        },
+        "carrier": "optus",
+        "special" : true,
+        "url": "//www.optus.com.au/shop/mobile/phones/samsung/galaxy-a8"
+    },
+    {
+        "id": "0532b957-978f-322d-80da-9d84aec80ab3",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Consumer/Mobile/Media/Images/Handsets/iPhone/iPhone 7 Plus/apple-iphone-7-plus-jet-black-LRG.png "
+        },
+        "description": "iPhone 7 Plus, 5.5-inch (diagonal) Retina HD display with 1920-by-1080 resolution and wide colour,3D Touch,New 12MP cameras with optical zoom at 2x, digital zoom up to 10x, optical image stabilization, Quad-LED True Tone flash, and Live Photos",
+        "brand": "iPhone",
+        "model": "7 Plus",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 0,
+                    "available": false
+                },
+                "back": {
+                    "mb": 0,
+                    "available": false
+                }
+            },
+            "screen": {
+                "size": "",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "",
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": null
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/iphone/iphone-7-plus"
+    },
+    {
+        "id": "f1c4373c-b39f-33bf-ba0c-eaac1c384519",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/Huawei Mate20 Pro/huawei-mate20-pro-LRG.png"
+        },
+        "description": "Huawei Mate20 Pro, Precise 6.39\" OLED display with in-screen fingerprint sensor,AI-powered LEICA triple lens 40 MP main camera,Just 30 minutes charge for over a day's use",
+        "brand": "Huawei",
+        "model": "Mate20 Pro",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "Kirin 980 octa-core (2x 2.50 GHz, 2x 2.0 GHz, 4x 1.8 GHz)",
+                "frequency": null,
+                "cores": 8
+            },
+            "os": {
+                "name": "EMUI 9.0",
+                "version": 9
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/huawei/mate20-pro?plan=69"
+    },
+    {
+        "id": "3067d64c-8357-3f1e-b380-27b21bf10e87",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared%20Media/Devices/MobilePhones/Razer-Phone-2/razer-phone-2-LRG.png"
+        },
+        "description": "Razer Phone 2, 120Hz UltraMotion™ Display,Qualcomm Snapdragon 845,Dual Front-Facing Stereo Speakers",
+        "brand": "Razer",
+        "model": "Phone 2",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "Qualcomm Snapdragon 845 (up to 2.8GHz) with Adreno 630 Visual Processing Subsystem",
+                "frequency": 2800,
+                "cores": 1
+            },
+            "os": {
+                "name": "Android 8.1",
+                "version": 8.1
+            }
+        },
+        "carrier": "optus",
+        "special" : true,
+        "url": "//www.optus.com.au/shop/mobile/phones/razer/phone-2"
+    },
+    {
+        "id": "7c7d2152-f546-3269-99af-53714def3310",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/Huawei nova 3i/Huawei-Nova-3i-146x243-LRG .png"
+        },
+        "description": "Huawei Nova 3i, 6.3 inch* HUAWEI FullView Display 2.0 featuring an ultra-slim bezel,Four Camera System: AI enabled Dual Front & Dual Rear Cameras,128GB built-in memory",
+        "brand": "Huawei",
+        "model": "Nova 3i",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 24,
+                    "available": true
+                },
+                "back": {
+                    "mb": 16,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "Kirin710 Octa-Core 4xCortex-A73 2.2GHz + 4xCortex-A53 1.7GHz",
+                "frequency": 2200,
+                "cores": 8
+            },
+            "os": {
+                "name": "EMUI 8.2",
+                "version": 8.2
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/huawei/nova-3i"
+    },
+    {
+        "id": "36b67bb9-a7ee-3dcb-8a12-1a0b11eb553b",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/Oppo-R15-Pro/oppo-r15pro-purple-listingpage.png"
+        },
+        "description": "OPPO R15 Pro, 6.28\" Full HD+ Touchscreen,Dual 20MP AI-enhanced Cameras,NFC enabled and Water resistant (IP67)",
+        "brand": "OPPO",
+        "model": "R15 Pro",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 20,
+                    "available": true
+                },
+                "back": {
+                    "mb": 20,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "OCTA core (4x2.2GHz + 4x1.8GHz)",
+                "frequency": 2200,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 5
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/oppo/r15-pro"
+    },
+    {
+        "id": "cee25738-3b43-3c1a-8df9-3f9d39c2c5bc",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Consumer/Mobile/Media/Images/Handsets/iPhone/iPhone 6s/apple-iphone-6s-rose-gold-LRG.png"
+        },
+        "description": "iPhone 6s, 4.7-inch (diagonal) Retina HD display with 1334-by-750 resolution,3D Touch,12MP camera with Focus Pixels, True Tone flash, and Live Photos",
+        "brand": "iPhone",
+        "model": "6s",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "",
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": null
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/iphone/iphone-6s"
+    },
+    {
+        "id": "a435b4f5-f426-390b-9ff2-b5a8b314a9e0",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Consumer/Mobile/Media/Images/Handsets/iPhone/iPhone 6s Plus/apple-iphone-6s-plus-gold-LRG.png"
+        },
+        "description": "iPhone 6s Plus, 5.5-inch (diagonal) Retina HD display with 1920-by-1080 resolution,3D Touch,12MP camera with Focus Pixels, True Tone flash, Live Photos, and optical image stabilization",
+        "brand": "iPhone",
+        "model": "6s Plus",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "",
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": null
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/iphone/iphone-6s-plus"
+    },
+    {
+        "id": "852400f1-32d4-308f-8878-d4b6aca496c1",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Consumer/Mobile/Media/Images/Handsets/iPhone/iPhone 6/apple-iphone6-spacegrey-listing.png"
+        },
+        "description": "iPhone 6, 4.7-inch Retina HD display,1334-by-750 resolution 326 ppi,8 megapixels iSight camera with Focus Pixels",
+        "brand": "iPhone",
+        "model": "6",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 0,
+                    "available": false
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "1334-by-750 resolution 326 ppi",
+                    "height": "1334-by-750 resolution 326 ppi"
+                }
+            },
+            "processor": {
+                "model": "",
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": null
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/iphone/iphone-6"
+    },
+    {
+        "id": "0a6aa7c1-014b-39db-ae4b-0b21b46f36e2",
+        "images": {
+            "main": "http://smb.optus.com.au/opfiles/Shop/Shared Media/Devices/MobilePhones/huawei-mate-9/huawei-mate-9_LGE.png"
+        },
+        "description": "Huawei Mate 9, Fast performance with Huawei’s amazing Machine Learning algorithm,2nd Gen Leica Dual Camera,4000mAh battery with up to 2 days usage",
+        "brand": "Huawei",
+        "model": "Mate 9",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": "Display",
+                "resolution": {
+                    "width": "",
+                    "height": ""
+                }
+            },
+            "processor": {
+                "model": "Huawei Kirin 960 CPU, 4xCortex A73 2.4 GHz+4xCortex A53 1.8GHz,64bit",
+                "frequency": 1800,
+                "cores": 1
+            },
+            "os": {
+                "name": "Android",
+                "version": 7
+            }
+        },
+        "carrier": "optus",
+        "url": "//www.optus.com.au/shop/mobile/phones/huawei/mate-9"
+    },
+    {
+        "id": "ccb3ce78-de4f-346a-9259-d984cf5a08d3",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/google/pixel3/pixel3-black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/google/pixel3/pixel3-black-back.png"
+            ]
+        },
+        "description": "<ul><li>5.5” FHD+ flexible OLED (2160 x 1080)</li><li>12.2MP camera with Group Selfies</li><li>With the Google Assistant built-in</li></ul>",
+        "brand": "Google",
+        "model": "Pixel 3 64GB Just Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12.2,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.5,
+                "resolution": {
+                    "width": 1080,
+                    "height": 2160
+                }
+            },
+            "processor": {
+                "model": "Qualcomm® Snapdragon™ 845 2.5Ghz + 1.6Ghz, 64Bit Octa-Core",
+                "frequency": 2500,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": null
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/google/google-pixel3"
+    },
+    {
+        "id": "8be6275c-abbb-3713-9e79-248f08e93cbd",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/google/pixel3-xl/pixel3-xl-black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/google/pixel3-xl/pixel3-xl-black-back.png"
+            ]
+        },
+        "description": "<ul><li>6.3” QHD+ flexible OLED (2960 x 1440)</li><li>12.2MP camera with Group Selfies</li><li>With the Google Assistant built-in</li></ul>",
+        "brand": "Google",
+        "model": "Pixel 3 XL 64GB Just Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12.2,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 1440,
+                    "height": 2880
+                }
+            },
+            "processor": {
+                "model": "Qualcomm® Snapdragon™ 845 2.5Ghz + 1.6Ghz, 64Bit Octa-Core",
+                "frequency": 2500,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": null
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/google/google-pixel3-xl"
+    },
+    {
+        "id": "6f20d882-6e95-3a24-a0bf-64d5f313e75e",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 64GB Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "c87960f7-7fd0-30fd-9902-46e51f726b28",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 64GB White",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "13d5e252-78cf-3cd4-aaef-2dd363eb88af",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 64GB (PRODUCT)RED",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "9bdf0ca6-b460-378c-bffd-7a85cbcc69db",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 64GB Coral",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "1c2a113e-e754-33c1-9616-15d9d041722f",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 64GB Blue",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "84a5c06b-17ea-3c2d-9f1b-96796f08762a",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 64GB Yellow",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "e9f44dbf-cd8c-3c23-b739-fa5abc0ccd10",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 128GB White",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "76dbb6a8-a181-304a-b72c-857c15d56d7b",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 128GB Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "8449ccdc-cf9e-3cec-829d-2350478456e6",
+        "images": {
+            "main": "https://www.telstra.com.au /content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": " iPhone XR 128GB (PRODUCT)RED",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "0cd06f62-f2d6-3410-94f1-559767de6ed6",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 128GB Coral",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "a9a3d5b5-f8e8-3de4-9508-c9f27c8e0436",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 128GB Blue",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "7142b7f1-627c-31be-ad0b-83916d8244d0",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 128GB Yellow",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "26781327-0aa6-3505-bb3c-a115a18489c3",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-White-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 256GB White",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "72cce538-617c-3606-b11f-cef415b3a969",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Black-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 256GB Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "2844f64b-0b35-3518-9533-4c6fb5d7f120",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-RED-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 256GB (PRODUCT)RED",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "special" : true,
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "be6a890b-b885-33dd-a654-b90e5293c849",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Coral-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 256GB Coral",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "5d0cd271-cf25-389a-a5f9-afc15dcbc06a",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Blue-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 256GB Blue",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "d6b1119b-01fe-37b9-84e0-12662514e923",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/shop/handset_images/apple/iphone-XR/Images/iPhoneXr-Yellow-side.png"
+            ]
+        },
+        "description": "<ul><li>6.1-inch Liquid Retina HD display (LCD)</li><li>IP67 water and dust resistant</li><li>12-megapixel camera with optical image stabilisation </li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay (data charges may apply)</li><li>Wireless charging—works with Qi chargers</li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone XR 256GB Yellow",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 1792,
+                    "height": 828
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "special" : true,
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xr"
+    },
+    {
+        "id": "5d486cd9-10b8-308c-8706-d060f9a9c840",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs/iPhoneXs-Gold-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs/iPhoneXs-Gold-angle.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs/iPhoneXs-Gold-side.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs/iPhoneXs-Gold-back.png"
+            ]
+        },
+        "description": "<ul><li>5.8-inch Super Retina OLED display with HDR<sup>1</sup></li><li>IP68 dust and water resistance (maximum depth of 2 metres for up to 30 minutes)<sup>2</sup></li><li>12-megapixel dual cameras with dual optical image stabilisation</li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay </li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts and Group FaceTime<sup>3</sup></li></ul>",
+        "brand": "Apple",
+        "model": "iPhone Xs 64GB Gold",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2436,
+                    "height": 1125
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xs"
+    },
+    {
+        "id": "75f52750-8490-3736-9c64-4ce933fdf1a9",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs-max/iPhoneXs-Max-Gold-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs-max/iPhoneXs-Max-Gold-angle.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs-max/iPhoneXs-Max-Gold-side.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-xs-max/iPhoneXs-Max-Gold-back.png"
+            ]
+        },
+        "description": "<ul><li>6.5-inch Super Retina OLED display with HDR<sup>1</sup></li><li>IP68 dust and water resistance (maximum depth of 2 metres for up to 30 minutes)<sup>2</sup></li><li>12-megapixel dual cameras with dual optical image stabilisation</li><li>7-megapixel TrueDepth front camera</li><li>Face ID for secure authentication and Apple Pay </li><li>iOS 12 with Memoji, Screen Time, Siri Shortcuts and Group FaceTime<sup>3</sup></li></ul>",
+        "brand": "Apple",
+        "model": "iPhone Xs Max 64GB Gold",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.5,
+                "resolution": {
+                    "width": 2688,
+                    "height": 1242
+                }
+            },
+            "processor": {
+                "model": "A12 Bionic chip Next-generation Neural Engine",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 12
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-xs-max"
+    },
+    {
+        "id": "60425ede-27a1-3653-827c-62150a956bc5",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-space-grey-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-space-grey-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-space-grey-side.png"
+            ]
+        },
+        "description": "<ul><li>5.8-inch Super Retina HD display with HDR and True Tone®<sup>1</sup></li><li>All-glass and stainless steel design, dust resistant and water resistant (up to 1m for 30 mins)<sup>2</sup></li><li>12MP dual cameras with OIS, Portrait mode, Portrait Lighting<sup>3</sup>, and 4K video up to 60 fps</li><li>7MP TrueDepth HD camera with Retina Flash for stunning selfies</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone X 64GB Space Grey",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2436,
+                    "height": 1125
+                }
+            },
+            "processor": {
+                "model": "A11 Bionic chip with 64-bit architecture, Neural Engine, Embedded M11 motion coprocessor",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 11
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-x"
+    },
+    {
+        "id": "5959c69f-a628-359b-856d-3d32408fc42b",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-space-grey-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-space-grey-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-space-grey-side.png"
+            ]
+        },
+        "description": "<ul><li>5.8-inch Super Retina HD display with HDR and True Tone®<sup>1</sup></li><li>All-glass and stainless steel design, dust resistant and water resistant (up to 1m for 30 mins)<sup>2</sup></li><li>12MP dual cameras with OIS, Portrait mode, Portrait Lighting<sup>3</sup>, and 4K video up to 60 fps</li><li>7MP TrueDepth HD camera with Retina Flash for stunning selfies</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone X 256GB Space Grey",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2436,
+                    "height": 1125
+                }
+            },
+            "processor": {
+                "model": "A11 Bionic chip with 64-bit architecture, Neural Engine, Embedded M11 motion coprocessor",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 11
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-x"
+    },
+    {
+        "id": "17a7cb46-0823-32f0-97c3-8b47a16b8f42",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-silver-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-silver-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-silver-side.png"
+            ]
+        },
+        "description": "<ul><li>5.8-inch Super Retina HD display with HDR and True Tone®<sup>1</sup></li><li>All-glass and stainless steel design, dust resistant and water resistant (up to 1m for 30 mins)<sup>2</sup></li><li>12MP dual cameras with OIS, Portrait mode, Portrait Lighting<sup>3</sup>, and 4K video up to 60 fps</li><li>7MP TrueDepth HD camera with Retina Flash for stunning selfies</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone X 256GB Silver",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2436,
+                    "height": 1125
+                }
+            },
+            "processor": {
+                "model": "A11 Bionic chip with 64-bit architecture, Neural Engine, Embedded M11 motion coprocessor",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 11
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-x"
+    },
+    {
+        "id": "485032a1-4f17-356a-a7ea-1e5aeab6e604",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-8/iphone-8-space-grey-angle.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-8/iphone-8-space-grey-front.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-8/iphone-8-space-grey-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-8/iphone-8-space-grey-side.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-8/iphone-8-line-up-5.jpg"
+            ]
+        },
+        "description": "<ul><li>4.7-inch Retina HD display with True Tone</li><li>All-glass and aluminium design, splash and dust resistant, up to 1m for 30 mins</li><li>12MP camera with OIS and 4K video up to 60 fps</li><li>7MP FaceTime HD camera with Retina Flash for stunning selfies</li><li>Touch ID for secure authentication and Apple Pay</li><li>A11 Bionic, at launch the most powerful and smartest chip in a smartphone</li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone 8 64GB Space Grey",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 1334,
+                    "height": 750
+                }
+            },
+            "processor": {
+                "model": "A11 Bionic chip with 64-bit architecture, Neural Engine, Embedded M11 motion coprocessor",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 11
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-8"
+    },
+    {
+        "id": "19e63648-a234-30fd-b0c1-815c8f8bc028",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-note-9/note-9-midnight-black-device-pen-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-note-9/note-9-midnight-black-device-pen-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-note-9/note-9-midnight-black-device-pen-angle-02.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-note-9/note-9-midnight-black-angle-01.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-note-9/note-9-midnight-black-pen.png"
+            ]
+        },
+        "description": "<ul><li>All new Bluetooth connected S Pen</li><li>6.4\" Infinity Display with Quad HD+ resolution</li><li>Intelligent 12MP Super Speed Dual Camera</li><li>Cutting-edge processor for Super-fast downloads</li><li>Long lasting 4,000mAh battery</li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy Note9 Midnight Black 128GB",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.4,
+                "resolution": {
+                    "width": 1334,
+                    "height": 750
+                }
+            },
+            "processor": {
+                "model": "Samsung Exynos 9810 Octa-Core 2.7GHz,1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": null
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-note9"
+    },
+    {
+        "id": "ca72fcd2-1619-336f-b029-1038f3b863ad",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-black-angle-1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-black-lside.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-black-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-black-angle-2.png"
+            ]
+        },
+        "description": "<ul><li>12MP Super Speed camera with Super Slow-mo</li><li>5.8 inch Quad HD+ Infinity Display</li><li>Dual Stereo speakers</li><li>Water and dust resistant (IP68) <sup>1</sup></li><li>Available in 64GB <sup>2</sup> or 256GB (Midnight Black only) <sup>3</sup></li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9 64GB Midnight Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2960,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Exynos 9810 Octa-Core 2.7GHz,1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-s9?leasePlan=1"
+    },
+    {
+        "id": "09e424a7-7471-3df3-9e07-2ea417bd8991",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-gold-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-gold-angle-1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-gold-lside.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-gold-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-gold-angle-2.png"
+            ]
+        },
+        "description": "<ul><li>12MP Super Speed camera with Super Slow-mo</li><li>5.8 inch Quad HD+ Infinity Display</li><li>Dual Stereo speakers</li><li>Water and dust resistant (IP68) <sup>1</sup></li><li>Available in 64GB <sup>2</sup> or 256GB (Midnight Black only) <sup>3</sup></li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9 64GB Sunrise Gold",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2960,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Exynos 9810 Octa-Core 2.7GHz,1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-s9?leasePlan=1"
+    },
+    {
+        "id": "b487eb32-ef77-387b-a7bb-a4d74ed50f42",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-purple-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-purple-angle-1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-purple-lside.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-purple-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9/samsung-galaxy-s9-purple-angle-2.png"
+            ]
+        },
+        "description": "<ul><li>12MP Super Speed camera with Super Slow-mo</li><li>5.8 inch Quad HD+ Infinity Display</li><li>Dual Stereo speakers</li><li>Water and dust resistant (IP68) <sup>1</sup></li><li>Available in 64GB <sup>2</sup> or 256GB (Midnight Black only) <sup>3</sup></li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9 64GB Lilac Purple",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2960,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Exynos 9810 Octa-Core 2.7GHz,1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-s9?leasePlan=1"
+    },
+    {
+        "id": "1d7c71cf-31d7-3e7e-8db2-35d6d4a5de5d",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-angle-1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-lside.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-angle-2.png"
+            ]
+        },
+        "description": "<ul><li>12MP Super Speed camera with Super Slow-mo</li><li>6.2\" Quad HD+ Infinity Display</li><li>Dual Stereo speakers</li><li>Water and dust resistant (IP68) <sup>1</sup></li><li>Available in 64GB <sup>2</sup> or 256GB (Midnight Black only) <sup>3</sup></li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9+ 64GB Midnight Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.2,
+                "resolution": {
+                    "width": 2960,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Exynos 9810 Octa-Core 2.7GHz,1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-s9-plus?leasePlan=1"
+    },
+    {
+        "id": "8a723675-03f6-3c09-ab65-2d5a555db30f",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-purple-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-purple-angle-1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-purple-lside.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-purple-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-purple-angle-2.png"
+            ]
+        },
+        "description": "<ul><li>12MP Super Speed camera with Super Slow-mo</li><li>6.2\" Quad HD+ Infinity Display</li><li>Dual Stereo speakers</li><li>Water and dust resistant (IP68) <sup>1</sup></li><li>Available in 64GB <sup>2</sup> or 256GB (Midnight Black only) <sup>3</sup></li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9+ 64GB Lilac Purple",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.2,
+                "resolution": {
+                    "width": 2960,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Exynos 9810 Octa-Core 2.7GHz,1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-s9-plus?leasePlan=1"
+    },
+    {
+        "id": "9c174757-165c-309e-b503-2257e95f0a0c",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-angle-1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-lside.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s9plus/samsung-galaxy-s9plus-black-angle-2.png"
+            ]
+        },
+        "description": "<ul><li>12MP Super Speed camera with Super Slow-mo</li><li>6.2\" Quad HD+ Infinity Display</li><li>Dual Stereo speakers</li><li>Water and dust resistant (IP68) <sup>1</sup></li><li>Available in 64GB <sup>2</sup> or 256GB (Midnight Black only) <sup>3</sup></li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9+ 256GB Midnight Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.2,
+                "resolution": {
+                    "width": 2960,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Exynos 9810 Octa-Core 2.7GHz,1.7GHz",
+                "frequency": 2700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-s9-plus?leasePlan=1"
+    },
+    {
+        "id": "f00c9946-bfa8-3805-bb15-191e1a749185",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xz2/sony_xperia_xz2_angel_v1.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xz2/sony_xperia_xz2_front_v1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xz2/sony_xperia_xz2_side_v1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xz2/sony_xperia_xz2_back_v1.png"
+            ]
+        },
+        "description": "<ul><li>5.7” Full HD+ HDR display</li><li>19MP camera with 4K HDR Movie recording</li><li>Sony’s Dynamic Vibration System for immersive entertainment you can feel in your hands</li><li>3D scanning on both front and rear cameras</li><li>Wireless charging (wireless charger sold separately)</li></ul>",
+        "brand": "Sony",
+        "model": "Sony Xperia XZ2 Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.7,
+                "resolution": {
+                    "width": 1080,
+                    "height": 2160
+                }
+            },
+            "processor": {
+                "model": "Qualcomm® Snapdragon™ 845 Mobile Platform",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/sony/sony-xperia-xz2.html"
+    },
+    {
+        "id": "4fca687f-c87d-3fca-911f-dcfc30c6aaf2",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/oppo-r15-pro/oppo-r15-device-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/oppo-r15-pro/oppo-r15-device-front-angle.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/oppo-r15-pro/opps-r15-side-02.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/oppo-r15-pro/oppo-r15-device-back-angle.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/oppo-r15-pro/oppo-r15-device-back.png"
+            ]
+        },
+        "description": "<ul><li>6.28\" edge-to-edge display</li><li>Dual 20MP+16MP rear cameras with AI-enhanced Technology</li><li>20MP front 'selfie' camera with AI Beauty Technology</li><li>128GB internal storage + 6GB RAM</li><li>Large 3430mAh battery with VOOC Flash Charge</li><li>NFC enabled and water resistant (IP67)</li></ul>",
+        "brand": "Oppo",
+        "model": "OPPO R15 Pro",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 20,
+                    "available": true
+                },
+                "back": {
+                    "mb": 20,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.28,
+                "resolution": {
+                    "width": 2280,
+                    "height": 1080
+                }
+            },
+            "processor": {
+                "model": "Octa-Core, 4x2.2GHz+4x1.8GHz, Qualcomm (SDM660)",
+                "frequency": 2200,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8.1
+            }
+        },
+        "carrier": "telstra",
+        "special" : true,
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/oppo/oppo-r15-pro.html"
+    },
+    {
+        "id": "de88cee1-fe1f-34e3-b869-09780499162b",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/google-pixel2-xl/pixel-2xl_front-black.jpg",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/google-pixel2-xl/pixel-2xl_back-black.jpg"
+            ]
+        },
+        "description": "<ul><li>Save all your brilliant photos and videos taken on your Pixel 2 with unlimited online storage<sup>1</sup>. </li><li>Use Google lens<sup>2</sup> on a photo to learn more about landmarks, artwork and more.</li><li>Ask Google Assistant<sup>3</sup> to take a selfie, text mum, turn on Bluetooth and navigate home.</li><li>Enjoy up to 7 hours of use from only 15 minutes of charging<sup>4</sup></li></ul>",
+        "brand": "Google",
+        "model": "Pixel 2 XL 64GB Just Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12.2,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.99,
+                "resolution": {
+                    "width": 2880,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Qualcomm® Snapdragon™ 835 processor OctaCore: 4xKryo Gold (2.35GHz) 4xKryo Silver (1.9GHz)",
+                "frequency": 2350,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/google/google-pixel2-xl"
+    },
+    {
+        "id": "6edd26a9-6c54-38fd-9a51-10dde144e4c8",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone7/iphone-7-mattblack-angle.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone7/iphone-7-mattblack-front.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone7/iphone-7-mattblack-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone7/iphone-7-mattblack-side.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone7/iphone-7-lineup.png"
+            ]
+        },
+        "description": "<ul><li>4.7-inch (diagonal) Retina HD display with 1334-by-750 resolution and wide color</li><li>3D Touch</li><li>New 12MP camera, optical image stabilization, Quad-LED True Tone flash, and Live Photos</li><li>Splash, water, and dust resistant</li><li>A10 Fusion chip with integrated M10 motion coprocessor</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone 7 32GB Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 1334,
+                    "height": 750
+                }
+            },
+            "processor": {
+                "model": "A10 Fusion chip with 64-bit architecture",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": 10
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone/iphone-7"
+    },
+    {
+        "id": "3ab5551d-7ea8-3f7f-9b00-06b13c684fd8",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-6s/iphone-6s-space-grey-270x530.jpg",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iPhone 6S/iphone-6s-spacegrey-front.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iPhone 6S/iphone-6s-spacegrey-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iPhone 6S/iphone-6s-spacegrey-side.png"
+            ]
+        },
+        "description": "<ul><li>4.7 inch (diagonal) Retina HD display with 1334-by-750 resolution</li><li>3D Touch</li><li>A9 chip with integrated M9 motion coprocessor</li><li>12 megapixel iSight camera with Focus Pixels, True Tone flash and Live Photos </li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Apple",
+        "model": "iPhone 6s 32GB Space Grey",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 1334,
+                    "height": 750
+                }
+            },
+            "processor": {
+                "model": "A9 chip with 64-bit architecture",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "iOS",
+                "version": null
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone-6s.html"
+    },
+    {
+        "id": "906e40dc-4d31-37f7-915a-b5c320d45f28",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xa2/sony_xperia_xa2_angel_v1.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xa2/sony_xperia_xa2_front_v1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xa2/sony_xperia_xa2_side_v1.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xa2/sony_xperia_xa2_back_v1.png"
+            ]
+        },
+        "description": "<ul><li>23MP camera with 120fps slow-mo & 4K video recording</li><li>120˚ Super wide-angle 8MP selfie camera</li><li>5.2“ full HD edge-to-edge display</li><li>High capacity 3300 mAhbattery </li><li>One-touch fingerprint sensor</li></ul>",
+        "brand": "Sony",
+        "model": "Sony Xperia XA2 Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.2,
+                "resolution": {
+                    "width": 1080,
+                    "height": 1920
+                }
+            },
+            "processor": {
+                "model": "Qualcomm® Snapdragon™ 630 processor",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "Android",
+                "version": 8
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/sony/sony-xperia-xa2.html"
+    },
+    {
+        "id": "cad4195f-0782-3903-bcc2-42c1c02208f3",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s8/samsung-galaxy-s8-midnight-black-front.png",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s8/samsung-galaxy-s8-midnight-black-right-angle.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s8/samsung-galaxy-s8-midnight-black-left-side.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s8/samsung-galaxy-s8-midnight-black-back.png",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/samsung-galaxy-s8/samsung-galaxy-s8-midnight-black-left-angle.png"
+            ]
+        },
+        "description": "<ul><li>5.8\" Infinity Display with Quad HD+ resolution<sup>1</sup></li><li>12MP Dual Pixel Camera with 8MP front camera</li><li>Water and dust resistant (IP68)<sup>2</sup></li><li>Exynos 9 Octa-Core Chip</li><li>64GB<sup>3</sup> storage with microSD support<sup>4</sup></li><li>Secure Iris Scanner technology<sup>5</sup></li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S8 Midnight Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 2960,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Exynos8895 64Bit Octa-core 2.3/1.7GHz CPU with ARM MP20 546Mhz GPU",
+                "frequency": 1700,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": null
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung/samsung-galaxy-s8"
+    },
+    {
+        "id": "10998f9e-5ed0-3025-8134-cd70ea594ece",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperai-xz-premium/sony_xperia_premium_angel.jpg",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperai-xz-premium/sony_xperia_premium_front_v3.jpg",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperai-xz-premium/sony_xperia_premium_side_v3.jpg",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperai-xz-premium/sony_xperia_premium_back_v3.jpg"
+            ]
+        },
+        "description": "<ul><li>Capture brilliant photos and videos with a 19MP camera with Motion Eye, Super Slow Motion 960fps, Predictive Capture & Anti-Distortion Shutter</li><li>The world’s first 5.5\" 4K HDR Display for brilliant viewing in colour, clarity and contrast.</li><li>Water and dust resistant (IP65/68)*</li><li>Super fast browsing and performance with the Qualcomm® Snapdragon™ processor, 4GB RAM</li><li>Store more photos and videos with 64GB internal memory~, expandable up to 256GB with microSD card.</li><li>Telstra <a data-target=\"#networks2\" data-toggle=\"modal\">Blue Tick</a> phones offer better coverage in rural and regional areas.</li></ul>",
+        "brand": "Sony",
+        "model": "Sony Xperia XZ Premium Black",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": null,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.5,
+                "resolution": {
+                    "width": 2560,
+                    "height": 1440
+                }
+            },
+            "processor": {
+                "model": "Qualcomm® Snapdragon™ 835 processor",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "Android",
+                "version": 7.1
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/sony/sony-xperia-xz-premium.html"
+    },
+    {
+        "id": "575a60f4-74fc-3ad3-86ee-60c3f9363ed8",
+        "images": {
+            "main": "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/tough-max-2/telstra-tough-max-2-front-270x530.jpg",
+            "others": [
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/tough-max-2/telstra-tough-max-2-front-angle-270x530.jpg",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/tough-max-2/telstra-tough-max-2-side-270x530.jpg",
+                "https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/tough-max-2/telstra-tough-max-2-back-270x530.jpg"
+            ]
+        },
+        "description": "<ul><li>Rugged smartphone – built tough with IP67 rating </li><li>Blue Tick rating and external RF port for enhanced rural coverage </li><li>Long-lasting battery with wireless charging and Quick Charge</li><li>5” HD screen with Corning Gorilla Glass and fingerprint sensor</li><li>16MP rear camera and 8MP front camera</li></ul>",
+        "brand": "Telstra",
+        "model": "Telstra Tough Max 2",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 8,
+                    "available": true
+                },
+                "back": {
+                    "mb": 16,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "processor": {
+                "model": "1.4Ghz Octa-core;  3GB RAM + 32GB ROM",
+                "frequency": 1400,
+                "cores": 8
+            },
+            "os": {
+                "name": "Android",
+                "version": null
+            }
+        },
+        "carrier": "telstra",
+        "url": "https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/telstra/telstra-tough-max-2.html"
+    },
+    {
+        "id": "2f0c5e1b-0768-3c51-80ce-4e43977d7f2b",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49863459_SamsungGalaxyS9Plus_Gold_215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49863460_SamsungGalaxyS9Plus_Gold_215-SideR.png",
+                "https://www.vodafone.com.au/api/mobile/m49863458_SamsungGalaxyS9Plus_Gold_215-Back.png"
+            ]
+        },
+        "description": "The Samsung Galaxy S9+ tells your story powered by your real moments. It packs a new Super Speed Dual Pixel camera, Intelligent scan security and a Live Translation feature. See more and hold less with the new stunning Infinity Display. ",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9+ 4G",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 0,
+                    "available": false
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": null,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/samsung-galaxy-s9-plus-64gb-gold"
+    },
+    {
+        "id": "102c6ce9-b0d1-3075-9688-7bfccf8ae76b",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50073528_iPhone-8-SpaceGrey-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50073529_iPhone-8-SpaceGrey-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m50073527_iPhone-8-SpaceGrey-215-Back.png"
+            ]
+        },
+        "description": "iPhone 8 is a new generation of iPhone. Designed with the most durable glass ever in a smartphone and a stronger aerospace grade aluminum band. Charges wirelessly.\rResists water and dust. 4.7-inch Retina HD display with True Tone. 12MP camera with new sensor and advanced image signal processor. Powered by A11 Bionic, the most powerful and smartest chip ever in a smartphone. Supports augmented reality experiences in games and apps. With iPhone 8, intelligence has never looked better.",
+        "brand": "Apple",
+        "model": "iPhone 8",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/iphone-8-64gb-spacegrey"
+    },
+    {
+        "id": "80607203-4051-37c8-a94b-5b1e12bc78a3",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49553432_SamsungGalaxyS9-Black-215-Front.jpg",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49553433_SamsungGalaxyS9-Black-215-SideR.jpg",
+                "https://www.vodafone.com.au/api/mobile/m49553431_SamsungGalaxyS9-Black-215-Back.jpg"
+            ]
+        },
+        "description": "The Samsung Galaxy S9 tells your story powered by your real moments. It packs a new Super Speed Dual Pixel camera, Intelligent scan security and a Live Translation feature. See more and hold less with the new stunning Infinity Display. ",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S9 4G",
+        "specifications": {
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "frequency": "",
+                "cores": 1
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/samsung-galaxy-s9-64gb-black"
+    },
+    {
+        "id": "34c29925-bebd-3808-b454-235e615fa292",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50033446_Huawei_Y-2018-4G-black-215-Front-2.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49923453_Huawei_Y-2018-4G-black-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m49923451_Huawei_Y-2018-4G-black-215-Back.png"
+            ]
+        },
+        "description": "The Huawei Y5 2018 allows you to live large with the 5.45 inch Huawei FullView Display, large long lasting battery with Huawei Power Saving 6.0 technology, 5MP Front Camera with Selfie Toning flash and the latest Android OS all without the large price tag.",
+        "brand": "Huawei",
+        "model": "Huawei Y5 2018 4G",
+        "specifications": {
+            "memory": 16,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 8,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.5 GHz 64-bit processor",
+                "frequency": 1500,
+                "cores": 4
+            },
+            "os": {
+                "name": "android",
+                "version": "8.1"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/huawei-y5-black"
+    },
+    {
+        "id": "52443cc8-8f73-3653-ad7b-fc541454dffd",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50223473_Vodafone_Smart_E9_Black-215-PostpaidFront.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50223475_Vodafone_Smart_E9_Black-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m50223472_Vodafone_Smart_E9_Black-215-Back.png"
+            ]
+        },
+        "description": "The Vodafone Smart E9 4G is a full featured smartphone which is stylish, compact and affordable with a 5-inch FWVGA+ LCD 18:9 Full View display, 5MP camera, lightweight Android 8.1 Oreo (Go edition) operating system, expandable memory up to 32GB and WiFi access.",
+        "brand": "Vodafone",
+        "model": "Vodafone Smart E9 4G",
+        "specifications": {
+            "memory": 8,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 5,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.28 GHz 64-bit processor",
+                "frequency": 1280,
+                "cores": 4
+            },
+            "os": {
+                "name": "android",
+                "version": "8.1"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/vodafone-smart-e9-black"
+    },
+    {
+        "id": "a4553c48-c96b-3c7d-a73c-60bb1e02855f",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50133492_Huawei_Mate20Pro-Black-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50253424_Huawei_Mate20Pro-215-GWP-White.png",
+                "https://www.vodafone.com.au/api/mobile/m50133491_Huawei_Mate20Pro-Black-215-Back.png"
+            ]
+        },
+        "description": "Huawei Mate20 Pro delivers more than just a big screen. It has a breakthrough triple Leica camera that raises the bar in photography. A battery so vast you could share it with others. A next generation processor for amazing everything. Welcome to a higher intelligence.",
+        "brand": "Huawei",
+        "model": "Huawei Mate20 Pro 4G",
+        "specifications": {
+            "memory": 8,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 4.7,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.28 GHz 64-bit processor",
+                "frequency": 1280,
+                "cores": 4
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/huawei-mate20-pro-4g"
+    },
+    {
+        "id": "8c67f2c8-1da9-38d1-8262-b38c67ceff98",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50133437_Google-Pixel-3XL-Clearly-White-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50133439_Google-Pixel-3XL-Clearly-White-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m50133435_Google-Pixel-3XL-Clearly-White-215-Back.png"
+            ]
+        },
+        "description": "Google Pixel 3 XL captures brilliant photos in any light with HDR+ and offers unlimited online storage for every photo and 4K video, has an all day battery with fast wireless charging, uses Google Assistant to get your sports scores, news, commute times, weather and more plus the latest Android 9 Pie.",
+        "brand": "Google",
+        "model": "Pixel 3 XL",
+        "specifications": {
+            "memory": 8,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12.2,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.28 GHz 64-bit processor",
+                "frequency": 1280,
+                "cores": 4
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "special" : true,
+        "url": "//shop.vodafone.com.au/mobile-details/pixel-3XL-64gb-clearly-white"
+    },
+    {
+        "id": "7481b66f-5eb9-3f19-968d-6b28b57ea2ab",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50133479_Huawei_Mate20-Black-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50253424_Huawei_Mate20Pro-215-GWP-White.png",
+                "https://www.vodafone.com.au/api/mobile/m50133476_Huawei_Mate20-Black-215-Back.png"
+            ]
+        },
+        "description": "Huawei Mate20 delivers higher intelligence with a visual art that embraces technology and craftsmanship. It’s built with a full vibrant display to accentuate its pure beauty. The immensely powerful engine inside unlocks future possibilities and creates a new path of intelligence.",
+        "brand": "Huawei",
+        "model": "Huawei Mate20 4G",
+        "specifications": {
+            "memory": 8,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": null,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.28 GHz 64-bit processor",
+                "frequency": 1280,
+                "cores": 4
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/huawei-mate20-4g"
+    },
+    {
+        "id": "6091311c-f87e-38f3-bea2-757d3f575837",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49663433_SamsungGalaxy-A8-black-215-Front.jpg",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49663434_SamsungGalaxy-A8-black-215-Side.jpg",
+                "https://www.vodafone.com.au/api/mobile/m49663432_SamsungGalaxy-A8-black-215-Back.jpg"
+            ]
+        },
+        "description": "Samsung Galaxy A8 features a Dual Front Camera, a large Infinity Display and stunning ergonomic design that draws on Samsung’s flagship design heritage and experience. With additional everyday features, the Galaxy A series is more stylish, practical and convenient than ever before.",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy A8",
+        "specifications": {
+            "memory": 32,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 16,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.2 GHz 64-bit processor",
+                "frequency": 2200,
+                "cores": 8
+            },
+            "os": {
+                "name": "android",
+                "version": "7.1"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/samsung-galaxy-a8-black"
+    },
+    {
+        "id": "0529f156-e8fb-3b60-bd08-a00283bfe394",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49813474_Oppo_R15Pro-purple-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49813475_Oppo_R15Pro-purple-215-SideR.png",
+                "https://www.vodafone.com.au/api/mobile/m49813473_Oppo_R15Pro-purple-215-Back.png"
+            ]
+        },
+        "description": "OPPO R15 Pro has A.I. Enhanced Dual 20MP+16MP Rear cameras (also with A.I. Scene Recognition) and 20MP Front camera, 6.28” FHD+ OLED super full-screen display, fast charging, exceptional battery life plus water resistance and NFC making it a real contender.",
+        "brand": "OPPO",
+        "model": "OPPO R15 Pro 4G",
+        "specifications": {
+            "memory": 32,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 20,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.2 GHz 64-bit processor",
+                "frequency": 2200,
+                "cores": 8
+            },
+            "os": {
+                "name": "android",
+                "version": "8.1"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/oppo-r15-pro-purple"
+    },
+    {
+        "id": "191b2862-7e4a-3fd4-97af-779169ca09f8",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49943434_Samsung-Note9-Black-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49943436_Samsung-Note9-Black-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m49943433_Samsung-Note9-Black-215-Back.png"
+            ]
+        },
+        "description": "The Samsung Galaxy Note9 comes with an intelligent camera that recognises scenes and optimises colours for brilliant shots. Its new S Pen is also smarter giving you ultimate control in everything you do. See more with the largest Infinity Display ever made and do more with a new cutting-edge processor and a battery that can last your day.\r\r",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy Note9 4G",
+        "specifications": {
+            "memory": 32,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 20,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "With just a single HDMI dongle, Samsung DeX seamlessly transforms Galaxy Note9 into a desktop workstation",
+                "frequency": null,
+                "cores": 1
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/samsung-galaxy-note9-128gb-black"
+    },
+    {
+        "id": "48cb7037-2555-371d-ba3f-c56647df24a3",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49813450_Samsung_Galaxy-J5Pro4G-215-Front_Postpay.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49813449_Samsung_Galaxy-J5Pro4G-215-Back_Postpay.png"
+            ]
+        },
+        "description": "The Samsung Galaxy J5 Pro 4G is a sleek yet compact smartphone packed with quality features. It’s the latest addition to Samsung’s Galaxy J series, which carries enhanced core features without compromising on affordability, allowing users to do more of the things they love.",
+        "brand": "Samsung",
+        "model": "Samsung Galaxy J5 Pro 4G",
+        "specifications": {
+            "memory": 32,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 13,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 1.6 GHz 64-bit processor",
+                "frequency": 1600,
+                "cores": 8
+            },
+            "os": {
+                "name": "android",
+                "version": "7.0"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/samsung-galaxy-j5-pro"
+    },
+    {
+        "id": "efca29fe-8d30-3659-a162-29f06d5d2f76",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50223488_Oppo-R17-Pro_EmeraldGreen-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50223489_Oppo-R17-Pro_EmeraldGreen-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m50223487_Oppo-R17-Pro_EmeraldGreen-215-Back.png"
+            ]
+        },
+        "description": "The OPPO R17 Pro adopts a revolutionary gradient design and a number of innovations to deliver a smartphone that combines artistic design and elegant technologies. The R17 Pro fully demonstrates OPPO’s innovation and leadership in mobile phone design.",
+        "brand": "OPPO",
+        "model": "Oppo R17 Pro 4G",
+        "specifications": {
+            "memory": 128,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.3,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.2 GHz 64-bit processor",
+                "frequency": 2200,
+                "cores": 8
+            },
+            "os": {
+                "name": "android",
+                "version": "8.1"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/oppo-r17-pro-emerald-green"
+    },
+    {
+        "id": "25b034f4-beda-37b4-9e49-64aa07a7d489",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50073537_iPhone8-Plus-Gold-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50073538_iPhone8-Plus-Gold-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m50073536_iPhone8-Plus-Gold-215-Back.png"
+            ]
+        },
+        "description": "iPhone 8 Plus is a new generation of iPhone. Designed with the most durable glass ever in a smartphone and a stronger aerospace grade aluminum band. Charges wirelessly. Resists water and dust. 5.5-inch Retina HD display with True Tone. 12MP dual cameras offer improved Portrait mode and new Portrait Lighting. Powered by A11 Bionic, the most powerful and smartest chip ever in a smartphone. Supports augmented reality experiences in games and apps. With iPhone 8 Plus, intelligence has never looked better.",
+        "brand": "Apple",
+        "model": "iPhone 8 Plus",
+        "specifications": {
+            "memory": 128,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.5,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.2 GHz 64-bit processor",
+                "frequency": 2200,
+                "cores": 8
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "special" : true,
+        "url": "//shop.vodafone.com.au/mobile-details/iphone-8-plus-64gb-gold"
+    },
+    {
+        "id": "1fb1a236-4085-32da-8dad-88673f13f560",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50103479_OPPO-AX5-4G-DiamondBlue-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50103480_OPPO-AX5-4G-DiamondBlue-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m50103478_OPPO-AX5-4G-DiamondBlue-215-Back.png"
+            ]
+        },
+        "description": "The OPPO AX5 offers great value and flagship features such as the AI enhanced dual camera, fast facial unlock, a large 4230mAh battery and 6.2 inch super full screen plus an Octa-core processor without the need to compromise on quality or design. ",
+        "brand": "OPPO",
+        "model": "Oppo AX5 4G",
+        "specifications": {
+            "memory": 64,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 13,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.5,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.8 GHz 64-bit processor",
+                "frequency": 1800,
+                "cores": 4
+            },
+            "os": {
+                "name": "android",
+                "version": "8.1"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/oppo-ax5-blue"
+    },
+    {
+        "id": "56b1eca3-c851-3d34-b0c8-3f7d25616239",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49943603_iPhoneXR-Blue-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49943604_iPhoneXR-Blue-215-Side.png",
+                "https://www.vodafone.com.au/api/mobile/m49943602_iPhoneXR-Blue-215-Back.png"
+            ]
+        },
+        "description": "iPhone XR features a 6.1-inch Liquid Retina display with custom-built OLED panels for an HDR display that provides the industry’s best color accuracy, true blacks, and remarkable brightness. Even faster Face ID lets you securely unlock your iPhone, log in to apps, and pay with just a glance. The A12 Bionic chip with next-generation Neural Engine uses real-time machine learning to transform the way you experience photos, gaming, augmented reality, and more. A breakthrough 12MP dual-camera system takes your portraits to the next level with Portrait mode, Portrait Lighting, enhanced bokeh, and all-new Depth Control. Water resistance.2 And iOS 12—the most advanced mobile operating system—with powerful new tools that make iPhone more personal than ever.",
+        "brand": "Apple",
+        "model": "iPhone XR",
+        "specifications": {
+            "memory": 64,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 6.1,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.8 GHz 64-bit processor",
+                "frequency": 1800,
+                "cores": 4
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/iphone-xr-64gb-blue"
+    },
+    {
+        "id": "4d3075fd-b398-3d66-af68-febf29e713be",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m50103520_Google-Pixel-3-Clearly-White-215-front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m50103523_Google-Pixel-3-Clearly-White-215-side.png",
+                "https://www.vodafone.com.au/api/mobile/m50103518_Google-Pixel-3-Clearly-White-215-back.png"
+            ]
+        },
+        "description": "Google Pixel 3 captures brilliant photos in any light with HDR+ and offers unlimited online storage for every photo and 4K video, has an all day battery with fast wireless charging, uses Google Assistant to get your sports scores, news, commute times, weather and more plus the latest Android 9 Pie.\r\r",
+        "brand": "Google",
+        "model": "Pixel 3",
+        "specifications": {
+            "memory": 64,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12.2,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.5,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Quad-core 1.8 GHz 64-bit processor",
+                "frequency": 1800,
+                "cores": 4
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/pixel-3-64gb-clearly-white"
+    },
+    {
+        "id": "549f0b9e-49c2-3993-a660-df345f529edd",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49813433_Huawei_Nova3e-black-215-Front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49813432_Huawei_Nova3e-black-215-Back.png",
+                "https://www.vodafone.com.au/api/mobile/m49813434_Huawei_Nova3e-black-215-Side.png"
+            ]
+        },
+        "description": "Huawei nova 3e combines high-end design, performance innovation and exceptional value delivered through features such as the dual camera, face and fingerprint unlock, an innovative front-facing camera, expandable memory and efficient battery management.",
+        "brand": "Huawei",
+        "model": "Huawei Nova 3e 4G",
+        "specifications": {
+            "memory": 64,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 2,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.5,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.36 GHz 64-bit processor",
+                "frequency": 2360,
+                "cores": 8
+            },
+            "os": {
+                "name": "android",
+                "version": "8.0"
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/huawei-nova-3e-black"
+    },
+    {
+        "id": "25d8fc45-e490-3ff3-ac0e-086be3ab564d",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49943563_iPhoneXS-Max-Silver-215-front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49943564_iPhoneXS-Max-Silver-215-side.jpg",
+                "https://www.vodafone.com.au/api/mobile/m49943562_iPhoneXS-Max-Silver-215-back.jpg"
+            ]
+        },
+        "description": "iPhone XS Max features a 6.5-inch Super Retina display with custom-built OLED panels for an HDR display that provides the industry’s best color accuracy, true blacks, and remarkable brightness. Advanced Face ID lets you securely unlock your iPhone, log in to apps, and pay with just a glance. The A12 Bionic chip with next-generation Neural Engine uses real-time machine learning to transform the way you experience photos, gaming, augmented reality, and more. A breakthrough 12MP dual-camera system takes your portraits to the next level with Portrait mode, Portrait Lighting, enhanced bokeh,\rand all-new Depth Control. Water resistance. And iOS 12—the most advanced mobile operating system—with powerful new tools that make iPhone more personal than ever.\r",
+        "brand": "Apple",
+        "model": "iPhone XS Max",
+        "specifications": {
+            "memory": 64,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.5,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.36 GHz 64-bit processor",
+                "frequency": 2360,
+                "cores": 8
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/iphone-xs-max-64gb-silver"
+    },
+    {
+        "id": "568b8b84-ed70-3e8e-81f2-eb13bc9a5f86",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49943504_iPhoneXs-Silver-215-front.png",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49943503_iPhoneXs-Silver-215-side.jpg",
+                "https://www.vodafone.com.au/api/mobile/m49943505_iPhoneXs-Silver-215-back.jpg"
+            ]
+        },
+        "description": "iPhone XS features a 5.8-inch Super Retina display with custom-built OLED panels for an HDR display that provides the industry’s best color accuracy, true blacks, and remarkable brightness. Advanced Face ID lets you securely unlock your iPhone, log in to apps, and pay with just a glance. The A12 Bionic chip with next-generation Neural Engine uses real-time machine learning to transform the way you experience photos, gaming, augmented reality, and more. A breakthrough 12MP dual-camera system takes your portraits to the next level with Portrait mode, Portrait Lighting, enhanced bokeh,\rand all-new Depth Control. Water resistance. And iOS 12—the most advanced mobile operating system—with powerful new tools that make iPhone more personal than ever.\r",
+        "brand": "Apple",
+        "model": "iPhone XS",
+        "specifications": {
+            "memory": 64,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.36 GHz 64-bit processor",
+                "frequency": 2360,
+                "cores": 8
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/iphone-xs-64gb-silver"
+    },
+    {
+        "id": "ea1a5f6d-aefa-39a9-8241-2c6c8753b7d5",
+        "images": {
+            "main": "https://www.vodafone.com.au/api/mobile/m49173571_iPhoneX-Silver-215-front.jpg",
+            "others": [
+                "https://www.vodafone.com.au/api/mobile/m49173573_iPhoneX-Silver-215-side.jpg",
+                "https://www.vodafone.com.au/api/mobile/m49173568_iPhoneX-Silver-215-back.jpg"
+            ]
+        },
+        "description": "iPhone X features an all-screen design with a 5.8-inch Super Retina HD display with HDR and True Tone. Designed with the most durable glass ever in a smartphone and a surgical\rgrade stainless steel band. Charges wirelessly. Resists water and dust. 12MP dual cameras with dual optical image stabilization for great low-light photos. TrueDepth camera\rwith Portrait selfies and new Portrait Lighting. Face ID lets you unlock and use Apple Pay with just a glance. Powered by A11 Bionic, the most powerful and smartest chip ever in a\rsmartphone. Supports augmented reality experiences in games and apps. With iPhone X, the next era of iPhone has begun.",
+        "brand": "Apple",
+        "model": "iPhone X",
+        "specifications": {
+            "memory": 64,
+            "camera": {
+                "front": {
+                    "mb": 7,
+                    "available": true
+                },
+                "back": {
+                    "mb": 12,
+                    "available": true
+                }
+            },
+            "screen": {
+                "size": 5.8,
+                "resolution": {
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            "processor": {
+                "model": "Octa-core 2.36 GHz 64-bit processor",
+                "frequency": 2360,
+                "cores": 8
+            },
+            "os": {
+                "name": "",
+                "version": ""
+            }
+        },
+        "carrier": "vodafone",
+        "url": "//shop.vodafone.com.au/mobile-details/iphone-x-64gb-silver"
+    }
+]
