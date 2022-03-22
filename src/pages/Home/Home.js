@@ -2,7 +2,6 @@ import React from 'react'
 import './Home.css'
 import LatestNews from './LatestNews'
 import Slider from '../../components/Slider/Slider'
-// import Slider2 from '../../components/SliderOffers/SliderOffers'
 import tick from '../../images/icons/tick.svg'
 import unlimitedminutes from '../../images/icons/unlimitedminutes.svg'
 import sms from '../../images/icons/sms.svg'
@@ -153,7 +152,6 @@ const Home = () => {
                     </div>
 
                     <div className="row">
-//                         <Slider2 />
                     </div>
 
                     <div className="row">
